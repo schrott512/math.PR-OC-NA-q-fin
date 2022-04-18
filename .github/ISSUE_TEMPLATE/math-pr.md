@@ -1,6 +1,6 @@
 ---
-name: math.PR
-about: A templete for math.PR.
+name: math.PR/OC/NA/q-fin
+about: A templete for math.PR/OC/NA/q-fin.
 title: ''
 labels: ''
 assignees: ''
